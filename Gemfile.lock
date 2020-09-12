@@ -3,3 +3,4 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
+    gemoji (1.4.0)
