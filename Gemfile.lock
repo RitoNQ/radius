@@ -17,3 +17,6 @@ GEM
       rspec-support (~> 3.1.0)
     rspec-support (3.1.0)
     rugged (0.21.0)
+
+PLATFORMS
+  ruby
