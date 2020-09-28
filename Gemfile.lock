@@ -20,3 +20,6 @@ GEM
 
 PLATFORMS
   ruby
+
+DEPENDENCIES
+  gemoji (= 1.4.0)
