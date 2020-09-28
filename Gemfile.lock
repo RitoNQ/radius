@@ -23,3 +23,5 @@ PLATFORMS
 
 DEPENDENCIES
   gemoji (= 1.4.0)
+  rspec
+  rugged
