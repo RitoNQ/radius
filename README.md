@@ -11,3 +11,4 @@ commit-msg
 This prepends every commit message with the current
 [branch description](http://bahmutov.calepin.co/git-branches-with-descriptions-really.html), after
 the commit message is set. I use a [GitHub emoji code](http://www.emoji-cheat-sheet.com/) to
+describe each branch.
