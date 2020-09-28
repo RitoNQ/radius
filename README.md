@@ -7,3 +7,5 @@ or [make the hooks global](#making-hooks-global) for all your projects.
 
 commit-msg
 ----------
+
+This prepends every commit message with the current
