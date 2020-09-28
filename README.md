@@ -16,3 +16,4 @@ describe each branch.
 My master branch description for this repo is :anchor:, and so:
 
 ```
+$ git add commit-msg prepare-commit-msg
