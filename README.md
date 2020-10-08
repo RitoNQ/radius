@@ -18,3 +18,4 @@ My master branch description for this repo is :anchor:, and so:
 ```
 $ git add commit-msg prepare-commit-msg
 $ git commit -m "Add commit-msg and prepare-commit-msg hooks."
+[master ee64377] :anchor: Add commit-msg and prepare-commit-msg hooks.
