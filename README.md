@@ -26,3 +26,4 @@ prepare-commit-msg
 ------------------
 
 This hook modifies the default commit message that is presented in editor before the message is
+saved. It currently modifies default merge commit message to make it snazzier.
