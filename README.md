@@ -37,3 +37,4 @@ will produce the default message:
 ```
 
 Making hooks global
+-------------------
