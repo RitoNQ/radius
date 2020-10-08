@@ -20,3 +20,4 @@ $ git add commit-msg prepare-commit-msg
 $ git commit -m "Add commit-msg and prepare-commit-msg hooks."
 [master ee64377] :anchor: Add commit-msg and prepare-commit-msg hooks.
  2 files changed, 31 insertions(+)
+```
