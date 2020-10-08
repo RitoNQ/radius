@@ -34,3 +34,4 @@ $ git merge origin/branch-i-want
 will produce the default message:
 ```
 :part_alternation_mark:erge 'origin/branch-i-want' into this fine-ass branch right here
+```
