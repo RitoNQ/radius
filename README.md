@@ -38,3 +38,5 @@ will produce the default message:
 
 Making hooks global
 -------------------
+
+To [make hooks global](https://coderwall.com/p/jp7d5q) for all your projects:
