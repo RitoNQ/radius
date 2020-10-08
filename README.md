@@ -31,3 +31,4 @@ saved. It currently modifies default merge commit message to make it snazzier.
 ```
 $ git merge origin/branch-i-want
 ```
+will produce the default message:
