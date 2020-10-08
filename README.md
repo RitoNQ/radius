@@ -29,3 +29,5 @@ This hook modifies the default commit message that is presented in editor before
 saved. It currently modifies default merge commit message to make it snazzier.
 
 ```
+$ git merge origin/branch-i-want
+```
