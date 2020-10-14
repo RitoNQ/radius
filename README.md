@@ -42,3 +42,4 @@ Making hooks global
 To [make hooks global](https://coderwall.com/p/jp7d5q) for all your projects:
 
 ```
+$ git config --global init.templatedir '~/.git-templates'
