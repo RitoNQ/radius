@@ -45,3 +45,5 @@ To [make hooks global](https://coderwall.com/p/jp7d5q) for all your projects:
 $ git config --global init.templatedir '~/.git-templates'
 $ git clone https://github.com/juliamae/githooks ~/.git-templates
 ```
+
+Any newly initialized repo will have the hooks. To add them to an existing repo:
