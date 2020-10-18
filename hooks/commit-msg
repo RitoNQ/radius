@@ -1,3 +1,5 @@
 
 #!/usr/bin/env ruby
 require File.expand_path('../hooks_helper', __FILE__)
+
+DescriptionPrepender.perform ARGV[0], Rugged::Repository.new(".")
