@@ -49,3 +49,4 @@ $ git clone https://github.com/juliamae/githooks ~/.git-templates
 Any newly initialized repo will have the hooks. To add them to an existing repo:
 
 ```
+$ cd ~/code/repo_madness # Your existing repo.
