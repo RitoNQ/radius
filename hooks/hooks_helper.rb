@@ -1,0 +1,3 @@
+
+require "rugged"
+require "gemoji"
