@@ -17,3 +17,4 @@ class DescriptionPrepender
   end
 
   # Public: If a branch description exists, constructs a new commit message from the description
+  #         and the set message, and writes the message to the `commit_message_file`.
