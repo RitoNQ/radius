@@ -7,3 +7,5 @@ class DescriptionPrepender
   attr_reader :commit_message_file, :repo
 
   def initialize(filename, repo)
+    @commit_message_file = filename
+    @repo                = repo
