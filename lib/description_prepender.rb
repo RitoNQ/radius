@@ -15,3 +15,5 @@ class DescriptionPrepender
     prepender = new filename, repo
     prepender.prepend!
   end
+
+  # Public: If a branch description exists, constructs a new commit message from the description
