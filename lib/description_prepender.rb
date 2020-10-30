@@ -18,3 +18,4 @@ class DescriptionPrepender
 
   # Public: If a branch description exists, constructs a new commit message from the description
   #         and the set message, and writes the message to the `commit_message_file`.
+  def prepend!
