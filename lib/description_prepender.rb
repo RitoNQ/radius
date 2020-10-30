@@ -13,3 +13,5 @@ class DescriptionPrepender
 
   def self.perform(filename, repo)
     prepender = new filename, repo
+    prepender.prepend!
+  end
