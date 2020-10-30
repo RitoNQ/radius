@@ -10,3 +10,6 @@ class DescriptionPrepender
     @commit_message_file = filename
     @repo                = repo
   end
+
+  def self.perform(filename, repo)
+    prepender = new filename, repo
