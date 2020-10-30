@@ -11,3 +11,4 @@ require File.expand_path('../../lib/emoji_descriptor', __FILE__)
 # Returns a String.
 def branch_name(repo)
   repo.branches.find { |branch| branch.head? }.name
+end
