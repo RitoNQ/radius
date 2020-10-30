@@ -9,3 +9,4 @@ class DescriptionPrepender
   def initialize(filename, repo)
     @commit_message_file = filename
     @repo                = repo
+  end
