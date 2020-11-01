@@ -22,3 +22,5 @@ class DescriptionPrepender
     return if description.empty?
 
     message = open(commit_message_file).read
+    open(commit_message_file, 'w') do |f|
+      f.puts "#{description} #{message}"
