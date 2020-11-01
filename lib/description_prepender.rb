@@ -20,3 +20,5 @@ class DescriptionPrepender
   #         and the set message, and writes the message to the `commit_message_file`.
   def prepend!
     return if description.empty?
+
+    message = open(commit_message_file).read
