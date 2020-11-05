@@ -25,3 +25,4 @@ class DescriptionPrepender
     open(commit_message_file, 'w') do |f|
       f.puts "#{description} #{message}"
     end
+  end
