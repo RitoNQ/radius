@@ -26,3 +26,5 @@ class DescriptionPrepender
       f.puts "#{description} #{message}"
     end
   end
+
+  private
