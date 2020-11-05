@@ -28,3 +28,6 @@ class DescriptionPrepender
   end
 
   private
+
+  # Private: Extracts the branch description for the current branch from the repo config.
+  def description
