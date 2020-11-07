@@ -31,3 +31,4 @@ class DescriptionPrepender
 
   # Private: Extracts the branch description for the current branch from the repo config.
   def description
+    @description ||= repo.
