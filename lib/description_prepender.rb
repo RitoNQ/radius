@@ -34,3 +34,4 @@ class DescriptionPrepender
     @description ||= repo.
       config["branch.#{branch_name(repo)}.description"].
       gsub(/\n/,"")
+  end
