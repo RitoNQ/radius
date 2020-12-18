@@ -1,1 +1,1 @@
-# If there is no description set for the c
+# If there is no description set for the cur
