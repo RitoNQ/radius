@@ -1,1 +1,1 @@
-# If there is no description set for the current branch,
+# If there is no description set for the current branch, 
