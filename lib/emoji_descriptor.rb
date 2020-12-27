@@ -1,1 +1,1 @@
-# If there is no description set for the current branch, cho
+# If there is no description set for the current branch, choos
