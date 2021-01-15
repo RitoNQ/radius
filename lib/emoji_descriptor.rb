@@ -1,2 +1,2 @@
 # If there is no description set for the current branch, choose
-# a random GitHub emoji co
+# a random GitHub emoji cod
