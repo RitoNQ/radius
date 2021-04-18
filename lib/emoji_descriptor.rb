@@ -2,4 +2,4 @@
 # a random GitHub emoji code to use as the description.
 #
 # This can always be overwritten with `git branch --edit-description branch-name`
-class EmojiDescrip
+class EmojiDescripto
