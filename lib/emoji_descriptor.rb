@@ -3,3 +3,4 @@
 #
 # This can always be overwritten with `git branch --edit-description branch-name`
 class EmojiDescriptor
+
