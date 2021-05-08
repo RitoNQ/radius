@@ -4,4 +4,4 @@
 # This can always be overwritten with `git branch --edit-description branch-name`
 class EmojiDescriptor
 
-  attr_rea
+  attr_read
