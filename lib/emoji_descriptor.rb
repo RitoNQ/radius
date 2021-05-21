@@ -6,3 +6,4 @@ class EmojiDescriptor
 
   attr_reader :repo
 
+ 
