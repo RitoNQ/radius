@@ -6,4 +6,4 @@ class EmojiDescriptor
 
   attr_reader :repo
 
-  def in
+  def ini
