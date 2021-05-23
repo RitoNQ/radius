@@ -7,3 +7,4 @@ class EmojiDescriptor
   attr_reader :repo
 
   def initialize(repo)
+ 
