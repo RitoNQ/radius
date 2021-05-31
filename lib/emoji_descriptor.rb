@@ -10,3 +10,4 @@ class EmojiDescriptor
     @repo = repo
   end
 
+  d
