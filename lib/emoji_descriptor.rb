@@ -9,3 +9,4 @@ class EmojiDescriptor
   def initialize(repo)
     @repo = repo
   end
+
