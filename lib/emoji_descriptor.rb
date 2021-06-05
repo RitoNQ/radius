@@ -10,4 +10,4 @@ class EmojiDescriptor
     @repo = repo
   end
 
-  def self.perform(rep
+  def self.perform(repo)
