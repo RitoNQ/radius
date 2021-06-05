@@ -10,4 +10,4 @@ class EmojiDescriptor
     @repo = repo
   end
 
-  def sel
+  def self.
