@@ -14,3 +14,4 @@ class EmojiDescriptor
     descriptor = new repo
     descriptor.set_description!
   end
+
