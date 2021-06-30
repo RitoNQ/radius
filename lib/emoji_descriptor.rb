@@ -13,4 +13,4 @@ class EmojiDescriptor
   def self.perform(repo)
     descriptor = new repo
     descriptor.set_description!
-  en
+  end
