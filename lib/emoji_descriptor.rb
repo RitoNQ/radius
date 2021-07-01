@@ -15,4 +15,4 @@ class EmojiDescriptor
     descriptor.set_description!
   end
 
-  def set_descri
+  def set_descript
