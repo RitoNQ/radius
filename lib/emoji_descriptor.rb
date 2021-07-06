@@ -16,4 +16,4 @@ class EmojiDescriptor
   end
 
   def set_description!
-    return unless set_desc
+    return unless set_descri
