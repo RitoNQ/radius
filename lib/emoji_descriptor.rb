@@ -18,4 +18,4 @@ class EmojiDescriptor
   def set_description!
     return unless set_description?
 
-    repo.config["branch.#{bran
+    repo.config["branch.#{branc
