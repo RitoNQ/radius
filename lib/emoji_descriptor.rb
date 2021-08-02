@@ -19,4 +19,4 @@ class EmojiDescriptor
     return unless set_description?
 
     repo.config["branch.#{branch_name}.description"] = ":#{random_emoji}:"
-    puts "Set description for branch #{branch_name} to '#{descr
+    puts "Set description for branch #{branch_name} to '#{descri
