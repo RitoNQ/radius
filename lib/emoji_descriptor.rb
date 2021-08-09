@@ -22,4 +22,4 @@ class EmojiDescriptor
     puts "Set description for branch #{branch_name} to '#{description}'"
   end
 
-  priv
+  priva
