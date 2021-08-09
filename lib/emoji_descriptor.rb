@@ -23,3 +23,4 @@ class EmojiDescriptor
   end
 
   private
+
