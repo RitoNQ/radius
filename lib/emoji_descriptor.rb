@@ -24,4 +24,4 @@ class EmojiDescriptor
 
   private
 
-  # Privat
+  # Private
