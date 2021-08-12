@@ -24,4 +24,4 @@ class EmojiDescriptor
 
   private
 
-  # Private: C
+  # Private: Cu
