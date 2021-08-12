@@ -24,4 +24,4 @@ class EmojiDescriptor
 
   private
 
-  # Private: Current description f
+  # Private: Current description fo
