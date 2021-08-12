@@ -24,4 +24,4 @@ class EmojiDescriptor
 
   private
 
-  # Private: Current description for the 
+  # Private: Current description for the cu
