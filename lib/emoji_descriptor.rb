@@ -25,3 +25,4 @@ class EmojiDescriptor
   private
 
   # Private: Current description for the current branch.
+  
