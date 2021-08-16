@@ -24,4 +24,4 @@ class EmojiDescriptor
 
   private
 
-  # Private: Current description for the current br
+  # Private: Current description for the current bran
