@@ -26,4 +26,4 @@ class EmojiDescriptor
 
   # Private: Current description for the current branch.
   #
-  # Returns a Strin
+  # Returns a String 
