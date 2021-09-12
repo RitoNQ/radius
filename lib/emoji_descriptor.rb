@@ -26,4 +26,4 @@ class EmojiDescriptor
 
   # Private: Current description for the current branch.
   #
-  # Returns a String or nil if 
+  # Returns a String or nil if on
