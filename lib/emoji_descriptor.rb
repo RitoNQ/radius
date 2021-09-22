@@ -27,4 +27,4 @@ class EmojiDescriptor
   # Private: Current description for the current branch.
   #
   # Returns a String or nil if one doesn't exist.
-  def descriptio
+  def description
