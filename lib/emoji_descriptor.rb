@@ -28,3 +28,4 @@ class EmojiDescriptor
   #
   # Returns a String or nil if one doesn't exist.
   def description
+  
