@@ -30,3 +30,4 @@ class EmojiDescriptor
   def description
     repo.config["branch.#{branch_name}.description"]
   end
+
