@@ -31,4 +31,4 @@ class EmojiDescriptor
     repo.config["branch.#{branch_name}.description"]
   end
 
-  # Priva
+  # Private
