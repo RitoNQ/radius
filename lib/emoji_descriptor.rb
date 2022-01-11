@@ -31,4 +31,4 @@ class EmojiDescriptor
     repo.config["branch.#{branch_name}.description"]
   end
 
-  # Private: Determines if we should set the branch descr
+  # Private: Determines if we should set the branch descripti
