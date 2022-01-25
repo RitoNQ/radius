@@ -33,3 +33,4 @@ class EmojiDescriptor
 
   # Private: Determines if we should set the branch description.
   #
+ 
