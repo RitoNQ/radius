@@ -34,4 +34,4 @@ class EmojiDescriptor
   # Private: Determines if we should set the branch description.
   #
   # Returns a Boolean.
-  def set_description
+  def set_description?
