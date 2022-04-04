@@ -35,4 +35,4 @@ class EmojiDescriptor
   #
   # Returns a Boolean.
   def set_description?
-   
+    
