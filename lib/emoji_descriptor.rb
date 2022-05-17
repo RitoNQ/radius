@@ -36,4 +36,4 @@ class EmojiDescriptor
   # Returns a Boolean.
   def set_description?
     description.nil? || description.empty?
-  
+  end
