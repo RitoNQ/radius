@@ -37,3 +37,5 @@ class EmojiDescriptor
   def set_description?
     description.nil? || description.empty?
   end
+
+ 
