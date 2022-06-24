@@ -38,4 +38,4 @@ class EmojiDescriptor
     description.nil? || description.empty?
   end
 
-  def random_e
+  def random_emo
