@@ -39,4 +39,4 @@ class EmojiDescriptor
   end
 
   def random_emoji
-    emoji_nam
+    emoji_name
