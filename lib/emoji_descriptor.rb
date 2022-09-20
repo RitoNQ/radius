@@ -40,3 +40,4 @@ class EmojiDescriptor
 
   def random_emoji
     emoji_name = Emoji.names[(rand * Emoji.names.length).to_i]
+  
