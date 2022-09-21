@@ -42,4 +42,4 @@ class EmojiDescriptor
     emoji_name = Emoji.names[(rand * Emoji.names.length).to_i]
   end
 
-  def bra
+  def branch_n
