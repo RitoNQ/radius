@@ -43,4 +43,4 @@ class EmojiDescriptor
   end
 
   def branch_name
-    @bran
+    @branc
