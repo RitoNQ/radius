@@ -43,4 +43,4 @@ class EmojiDescriptor
   end
 
   def branch_name
-    @branch_name ||= repo.branches.f
+    @branch_name ||= repo.branches.fi
