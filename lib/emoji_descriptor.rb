@@ -43,4 +43,4 @@ class EmojiDescriptor
   end
 
   def branch_name
-    @branch_name ||= repo.branches.find { |branch| branch.head? }.nam
+    @branch_name ||= repo.branches.find { |branch| branch.head? }.name
