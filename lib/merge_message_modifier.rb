@@ -3,3 +3,5 @@
 #
 # Fancies up "Merge," replaces local branch name, and removes 'remote-tracking branch.'
 class MergeMessageModifier
+
+  attr_reader :commit_message_file, :repo
