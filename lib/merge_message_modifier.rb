@@ -12,3 +12,5 @@ class MergeMessageModifier
   end
 
   def self.perform(filename, repo)
+    modifier = new filename, repo
+    modifier.modify!
