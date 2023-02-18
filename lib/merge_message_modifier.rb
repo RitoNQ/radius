@@ -15,3 +15,5 @@ class MergeMessageModifier
     modifier = new filename, repo
     modifier.modify!
   end
+
+  def modify!
