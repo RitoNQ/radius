@@ -25,3 +25,5 @@ class MergeMessageModifier
         .gsub(branch_name(repo), "this fine-ass branch right here")
     end
   end
+
+  private
