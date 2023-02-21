@@ -17,3 +17,4 @@ class MergeMessageModifier
   end
 
   def modify!
+    return if message.nil? || message.empty?
