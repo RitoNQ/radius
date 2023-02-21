@@ -18,3 +18,6 @@ class MergeMessageModifier
 
   def modify!
     return if message.nil? || message.empty?
+
+    open(commit_message_file, 'w') do |f|
+      f.puts message.gsub("Merge", ":part_alternation_mark:erge")
