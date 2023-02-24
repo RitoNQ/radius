@@ -29,3 +29,5 @@ class MergeMessageModifier
   private
 
   def message
+    @message ||= open(commit_message_file).read
+  end
