@@ -27,3 +27,5 @@ class MergeMessageModifier
   end
 
   private
+
+  def message
